@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fuliscripts/The-Rake-REMASTERADO/main/fuli_hub_codex_optimized.lua"))()
